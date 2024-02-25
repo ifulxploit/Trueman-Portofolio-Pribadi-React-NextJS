@@ -46,9 +46,9 @@ Kredit Foto:
 
 <table>
   <tr>
-    <td align="center"><img src="https://www.svgrepo.com/show/306907/unsplash.svg" alt="Logo Unsplash" width="64"></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/26276/freepik-logo.svg" alt="Logo Freepik" width="64"></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/521502/behance.svg" alt="Logo Behance" width="64"></td>
+    <td align="center"><img src="https://seeklogo.com/images/U/unsplash-logo-50F0DCF9BD-seeklogo.com.png" alt="Logo Unsplash" width="64"></td>
+    <td align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/freepik-logo-png-transparent.png" alt="Logo Freepik" width="64"></td>
+    <td align="center"><img src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="Logo Behance" width="64"></td>
   </tr>
   <tr>
     <td align="center">Unsplash</td>
