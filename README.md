@@ -44,7 +44,19 @@ Kredit Foto:
 - Freepik
 - Behance
 
-![Logo Unsplash](https://example.com/unsplash-logo.png) ![Logo Freepik](https://example.com/freepik-logo.png) ![Logo Behance](https://example.com/behance-logo.png)
+<table>
+  <tr>
+    <td align="center"><img src="https://www.svgrepo.com/show/306907/unsplash.svg" alt="Logo Unsplash" width="64"></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/26276/freepik-logo.svg" alt="Logo Freepik" width="64"></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/521502/behance.svg" alt="Logo Behance" width="64"></td>
+  </tr>
+  <tr>
+    <td align="center">Unsplash</td>
+    <td align="center">Freepik</td>
+    <td align="center">Behance</td>
+  </tr>
+</table>
+
 
 
 ## Penggunaan
