@@ -2,7 +2,7 @@
 
 ![Image Trueman](https://s3.envato.com/files/486694720/preview.__large_preview.png)
 
-[Live Demo]()
+[Live Demo](https://trueman-react.vercel.app/)
 
 Trueman adalah templat modern dan kreatif yang dirancang untuk pengembang, desainer, programmer, freelancer, seniman, coder, fotografer, atau profesional digital lainnya. Ini menawarkan kehadiran web yang bersih dan profesional dengan fitur yang dirancang untuk memamerkan keterampilan dan proyek Anda dengan efektif.
 
